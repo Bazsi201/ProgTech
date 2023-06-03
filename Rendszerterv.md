@@ -77,7 +77,7 @@ A programhoz MySQL adatábzist szervert használunk.
 
 ![Users](./Pictures/Users.png)
 ![Products](./Pictures/Products.png)
-![Database](./Pictures/database terv.png)
+![Database](./Pictures/databaseterv.png)
 
 ## 8. Implementációs terv
 - Az OCP (Open-Closed Principle) és a SRP (Single Responsiblity Principle) betartásával készüljön az alkalmazás java programnyelven.
