@@ -17,7 +17,7 @@ Tesztelés: Mihály Balázs, Kaponya Martin
 
 ## 3. Üzleti feladatok modellje
 
-![Üzleti feladatok modellje]()
+![Üzleti feladatok modellje](./Pictures/Plan.png)
 
 ## 4. Követelmények
 ### Funkcionális követelmények:
@@ -75,7 +75,9 @@ A programhoz MySQL adatábzist szervert használunk.
 
 ## 7. Adatbázis terv
 
-![0]()
+![Users](./Pictures/Users.png)
+![Products](./Pictures/Products.png)
+![Database](./Pictures/database terv.png)
 
 ## 8. Implementációs terv
 - Az OCP (Open-Closed Principle) és a SRP (Single Responsiblity Principle) betartásával készüljön az alkalmazás java programnyelven.
