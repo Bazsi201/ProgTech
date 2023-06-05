@@ -12,9 +12,7 @@ A megrendelő szeretne egy könyv/játék kölcsönzőt üzemeltetni. Ehhez szer
  
  A projekt elkészítése során a Java nyelvet használjuk. A feladat kiemelt pontja a tervezési minták használata.
 
-Frontend: Mihály Balázs, Kaponya Martin
-Backend: Mihály Balázs, Kaponya Martin
-Tesztelés: Mihály Balázs, Kaponya Martin
+Frontend, Backend, Tesztelés: Mihály Balázs, Kaponya Martin
 
 ## 3. Üzleti feladatok modellje
 
