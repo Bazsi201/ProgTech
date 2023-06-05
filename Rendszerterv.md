@@ -34,7 +34,6 @@ Tesztelés: Mihály Balázs, Kaponya Martin
 ### Rendszerszereplők:
 - **Guest**
 - **User**
-- **Admin**
 
 ### Rendszerhasználati esetek és lefutásaik:
 **Guest:**
@@ -47,9 +46,6 @@ Tesztelés: Mihály Balázs, Kaponya Martin
 - Az "Update" gombra kattintva a listájából szerkesztheti az egyik productját
 - Kijelentkezhet fiókjából a "Log out" gomb segítségével
 
-**Admin:**
-- Bejelentkezhet adminisztrátori fiókjába a "Login" menü pontra kattintva
-- Kijelentkezhet fiókjából a "Log out" gomb segítségével
 
 ### Menükhöz tartozó specifikációk:
 
@@ -71,7 +67,7 @@ A programhoz MySQL adatábzist szervert használunk.
 ### Fejlesztői eszközök
 - IntelliJ IDEA Ultimate
 - Visual Studio Code
-- XAMPP 
+- XAMPP / WAMP
 
 ## 7. Adatbázis terv
 
@@ -81,7 +77,7 @@ A programhoz MySQL adatábzist szervert használunk.
 
 ## 8. Implementációs terv
 - Az OCP (Open-Closed Principle) és a SRP (Single Responsiblity Principle) betartásával készüljön az alkalmazás java programnyelven.
-- Az alkalmazásban felhasznált további tervezési minták a x és az x. 
+- Az alkalmazásban felhasznált további tervezési minták a Command és a Strategy. 
 - Az adatok tárolása adatbázisban történik meg.
 - Unit tesztek készítése 
 - Logolás
