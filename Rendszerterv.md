@@ -44,17 +44,8 @@ Tesztelés: Mihály Balázs, Kaponya Martin
 **User:**
 - Bejelentkezhet felhasználói fiókjába a "Login" menüpontra kattintva
 - Az "Add" gombra kattintva új panelen keresztül hozzáadhat egy productot a listájához
-- Az "Update" gombra kattintva a listájából szerkesztheti az egyik productját
+- "Borrow" gombra kattintva láthatja az aktuálisan elérhető productokat, ismételt megnyomással kikölcsönözhet egy productot (updateli a táblában a kikolcsonozve)
 - Kijelentkezhet fiókjából a "Log out" gomb segítségével
-
-
-### Menükhöz tartozó specifikációk:
-
-| Modul       | ID | Név                      | v.  | Kifejtés                                                                 |
-|-------------|----|--------------------------|-----|--------------------------------------------------------------------------|
-| Jogosultság | T1 | Bejelentkezési felület   | 1.0 | A felhasználó az email címe és jelszava segítségével bejelentkezhet. Ha a megadott email vagy jelszó nem megfelelő, akkor a felhasználó hibaüzenetet kap.                                                               |
-| Jogosultság | T2 | Regisztráció | 1.0 | A felhasználó az email címével és jelszavának megadásával regisztrálja magát. A jelszó tárolása kódolva történik az adatbázisban. Ha valamelyik adat ezek közül hiányzik vagy nem felel meg a követelményeknek, akkor a rendszer értesíti erről a felhasználót. |
-| Jogosultság | T3 | Kijelentkezés | 1.0 | A bejelentkezett felhasználók a kijelentkezés gombra kattintva kitudnak jelentkezni, amely a bejelentkező felületre irányíja őket. |
 
 
 ## 6. Fizikai környezet
