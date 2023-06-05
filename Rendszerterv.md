@@ -28,8 +28,8 @@ Tesztelés: Mihály Balázs, Kaponya Martin
 | K2 |  Regisztráció | Fiók létrehozás |
 | K3 | Login | Meglévő felhasználóval bejelentkezés |
 | K4 | Add | Adatbázishoz hozzáadás |
-| K5 | Update | Adatbázisból módosításás |
-| K6 | Delete | Adatbázisból törlés |
+| K5 | Update | Adatbázis módosításás (kölcsönzés) |
+| K6 | Select | Adatbázis kilistázása |
 
 ## 5. Funkcionális terv
 ### Rendszerszereplők:
