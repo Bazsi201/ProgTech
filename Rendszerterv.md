@@ -2,7 +2,8 @@
 
 ## 1. A rendszer célja
 
-A megrendelő szeretne egy könyv/játék kölcsönzőt üzemeltetni. Ehhez szeretne egy programot, amiben a felhasználók megtekinthetik az aktuális készletet, illetve kikölcsönözhetik a számukra megfelelő termékeket.
+A megrendelő szeretne egy könyv/játék kölcsönzőt üzemeltetni. Ehhez szeretne egy programot, amiben a felhasználók megtekinthetik az aktuális készletet, hozzáadhatnak új dolgokat, amiket a megrendelő szívesen forgalmazna (ennek szűkítésében segít a fix opciós dropdown menü), illetve kikölcsönözhetik a számukra megfelelő termékeket.
+
 
 ## 2. Projektterv
  **Developer Team**: 
