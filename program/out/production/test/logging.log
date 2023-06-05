@@ -1,0 +1,343 @@
+2023-06-04 13:35:14 INFO  LoginFrame:77 - sikeres belépés
+  2023-06-04 13:38:40 INFO  LoginFrame:77 - sikeres belépés
+  2023-06-04 13:40:16 INFO  LoginFrame:77 - sikeres belépés
+  2023-06-04 13:41:46 INFO  LoginFrame:77 - sikeres belépés
+  2023-06-04 13:41:57 INFO  AddForm:69 - Adat beszúrva az adatbázisba
+  2023-06-04 13:55:28 INFO  LoginFrame:83 - sikertelen belépés
+  2023-06-04 13:55:29 INFO  LoginFrame:83 - sikertelen belépés
+  2023-06-04 13:55:29 INFO  LoginFrame:83 - sikertelen belépés
+  2023-06-04 13:55:29 INFO  LoginFrame:83 - sikertelen belépés
+  2023-06-04 13:59:58 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 14:03:36 INFO  LoginFrame:67 - sikertelen belépés
+  2023-06-04 14:03:40 INFO  LoginFrame:67 - sikertelen belépés
+  2023-06-04 14:03:45 INFO  LoginFrame:67 - sikertelen belépés
+  2023-06-04 14:05:28 INFO  LoginFrame:67 - sikertelen belépés
+  2023-06-04 14:05:33 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 14:05:44 INFO  LoginFrame:67 - sikertelen belépés
+  2023-06-04 14:05:52 INFO  LoginFrame:67 - sikertelen belépés
+  2023-06-04 14:05:52 INFO  LoginFrame:67 - sikertelen belépés
+  2023-06-04 14:05:53 INFO  LoginFrame:67 - sikertelen belépés
+  2023-06-04 14:07:03 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 14:45:19 INFO  LoginFrame:67 - sikertelen belépés
+  2023-06-04 14:45:25 INFO  LoginFrame:67 - sikertelen belépés
+  2023-06-04 14:45:30 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 14:46:12 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 14:46:54 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 14:47:09 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 14:54:12 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:04:44 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:05:17 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:06:04 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:07:07 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:07:30 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:07:54 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:08:44 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:09:47 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:14:06 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:26:48 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:26:55 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:26:59 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:28:02 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:29:28 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:30:34 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:42:34 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 15:56:22 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 16:43:53 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 16:45:57 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-04 17:47:02 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 14:11:22 INFO  MainForm:177 - Add Gomb lenyomva
+  2023-06-05 14:11:37 INFO  MainForm:159 - Adat beszúrva az adatbázisba
+  2023-06-05 14:11:38 INFO  MainForm:167 - Add button megnyomva
+  2023-06-05 14:16:39 INFO  MainForm:193 - Select Gomb lenyomva
+  2023-06-05 14:16:52 INFO  MainForm:193 - Select Gomb lenyomva
+  2023-06-05 14:17:30 INFO  MainForm:193 - Select Gomb lenyomva
+  2023-06-05 14:23:34 INFO  MainForm:192 - Select Gomb lenyomva
+  2023-06-05 14:36:35 INFO  MainForm:192 - Select Gomb lenyomva
+  2023-06-05 14:36:51 INFO  MainForm:192 - Select Gomb lenyomva
+  2023-06-05 14:37:44 INFO  MainForm:192 - Select Gomb lenyomva
+  2023-06-05 14:38:17 INFO  MainForm:192 - Select Gomb lenyomva
+  2023-06-05 14:43:07 INFO  MainForm:192 - Select Gomb lenyomva
+  2023-06-05 14:44:32 INFO  MainForm:192 - Select Gomb lenyomva
+  2023-06-05 14:44:44 INFO  MainForm:192 - Select Gomb lenyomva
+  2023-06-05 14:45:41 INFO  MainForm:192 - Select Gomb lenyomva
+  2023-06-05 14:46:53 INFO  MainForm:192 - Select Gomb lenyomva
+  2023-06-05 14:53:59 INFO  MainForm:192 - Select Gomb lenyomva
+  2023-06-05 14:54:21 INFO  MainForm:193 - Select Gomb lenyomva
+  2023-06-05 14:55:59 INFO  MainForm:193 - Select Gomb lenyomva
+  2023-06-05 14:56:08 INFO  MainForm:200 - Logged out 
+  2023-06-05 14:56:13 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 14:57:07 INFO  MainForm:201 - Logged out 
+  2023-06-05 14:57:09 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 14:57:10 INFO  MainForm:194 - Select Gomb lenyomva
+  2023-06-05 14:58:18 INFO  MainForm:194 - Select Gomb lenyomva
+  2023-06-05 14:58:33 INFO  MainForm:194 - Select Gomb lenyomva
+  2023-06-05 14:58:54 INFO  MainForm:194 - Select Gomb lenyomva
+  2023-06-05 14:59:20 INFO  MainForm:194 - Select Gomb lenyomva
+  2023-06-05 14:59:51 INFO  MainForm:194 - Select Gomb lenyomva
+  2023-06-05 15:00:39 INFO  MainForm:194 - Select Gomb lenyomva
+  2023-06-05 15:00:47 INFO  MainForm:201 - Logged out 
+  2023-06-05 15:00:50 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:02:18 INFO  MainForm:194 - Select Gomb lenyomva
+  2023-06-05 15:05:41 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 15:05:47 INFO  MainForm:190 - Update Gomb lenyomva
+  2023-06-05 15:05:50 INFO  MainForm:196 - Select Gomb lenyomva
+  2023-06-05 15:06:00 INFO  MainForm:199 - Delete Gomb lenyomva
+  2023-06-05 15:06:22 INFO  MainForm:196 - Select Gomb lenyomva
+  2023-06-05 15:06:34 INFO  MainForm:199 - Delete Gomb lenyomva
+  2023-06-05 15:07:11 INFO  MainForm:199 - Delete Gomb lenyomva
+  2023-06-05 15:09:12 INFO  MainForm:200 - Delete Gomb lenyomva
+  2023-06-05 15:15:48 INFO  MainForm:200 - Delete Gomb lenyomva
+  2023-06-05 15:16:13 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 15:16:31 INFO  MainForm:202 - Delete Gomb lenyomva
+  2023-06-05 15:17:15 INFO  MainForm:202 - Delete Gomb lenyomva
+  2023-06-05 15:17:34 INFO  MainForm:202 - Delete Gomb lenyomva
+  2023-06-05 15:19:36 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:19:37 INFO  MainForm:202 - Delete Gomb lenyomva
+  2023-06-05 15:19:58 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:19:59 INFO  MainForm:202 - Delete Gomb lenyomva
+  2023-06-05 15:20:16 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:20:17 INFO  MainForm:202 - Delete Gomb lenyomva
+  2023-06-05 15:21:09 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:21:10 INFO  MainForm:203 - Delete Gomb lenyomva
+  2023-06-05 15:21:59 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:22:00 INFO  MainForm:203 - Delete Gomb lenyomva
+  2023-06-05 15:22:50 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:22:51 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 15:23:13 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:23:14 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 15:24:09 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:24:11 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 15:29:38 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:29:39 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 15:30:11 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:30:12 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 15:30:36 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:30:37 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 15:31:07 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:31:08 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 15:31:41 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:31:42 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 15:32:10 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:32:12 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 15:34:58 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 15:35:02 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 15:35:22 INFO  MainForm:196 - Select Gomb lenyomva
+  2023-06-05 21:13:29 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 21:13:33 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 21:13:45 WARN  MainForm:169 - Hiba adatbáziskapcsolat létrehozásakor
+  2023-06-05 21:13:45 INFO  MainForm:172 - Add button megnyomva
+  2023-06-05 21:14:54 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 21:14:55 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 21:15:09 WARN  MainForm:169 - Hiba adatbáziskapcsolat létrehozásakor
+  2023-06-05 21:15:09 INFO  MainForm:172 - Add button megnyomva
+  2023-06-05 21:17:46 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 21:17:47 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 21:17:57 WARN  MainForm:169 - Hiba adatbáziskapcsolat létrehozásakor
+  2023-06-05 21:17:57 INFO  MainForm:172 - Add button megnyomva
+  2023-06-05 21:19:49 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 21:19:50 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 21:19:57 WARN  MainForm:169 - Hiba adatbáziskapcsolat létrehozásakor
+  2023-06-05 21:19:57 INFO  MainForm:172 - Add button megnyomva
+  2023-06-05 21:20:43 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 21:20:45 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 21:20:54 INFO  MainForm:164 - Adat beszúrva az adatbázisba
+  2023-06-05 21:20:56 INFO  MainForm:172 - Add button megnyomva
+  2023-06-05 21:24:10 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 21:24:11 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 21:24:20 WARN  MainForm:169 - Hiba adatbáziskapcsolat létrehozásakor
+  2023-06-05 21:24:20 INFO  MainForm:172 - Add button megnyomva
+  2023-06-05 21:27:51 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 21:27:52 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 21:27:58 INFO  MainForm:195 - Cancel gomb megnyomva
+  2023-06-05 21:28:00 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 21:29:34 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 21:29:35 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 21:33:08 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 21:33:10 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 21:33:26 INFO  MainForm:170 - Adat beszúrva az adatbázisba
+  2023-06-05 21:33:28 INFO  MainForm:178 - Add button megnyomva
+  2023-06-05 21:34:20 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 21:34:22 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 21:34:29 INFO  MainForm:164 - Adat beszúrva az adatbázisba
+  2023-06-05 21:34:30 INFO  MainForm:172 - Add button megnyomva
+  2023-06-05 21:37:27 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 21:37:29 INFO  MainForm:188 - Add Gomb lenyomva
+  2023-06-05 21:42:17 INFO  RegisterFrame:57 - Sikeres regisztrálás
+  2023-06-05 21:49:34 INFO  LoginFrame:61 - sikeres belépés
+  2023-06-05 21:49:39 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 21:54:48 INFO  LoginFrame:64 - sikeres belépés
+  2023-06-05 21:56:04 INFO  LoginFrame:66 - sikeres belépés
+  2023-06-05 22:00:04 INFO  LoginFrame:71 - sikeres belépés
+  2023-06-05 22:10:16 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:10:18 INFO  MainForm:196 - Select Gomb lenyomva
+  2023-06-05 22:11:05 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:11:06 INFO  MainForm:196 - Select Gomb lenyomva
+  2023-06-05 22:11:50 INFO  MainForm:201 - Delete Gomb lenyomva
+  2023-06-05 22:12:31 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:13:02 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:13:06 INFO  MainForm:190 - Select Gomb lenyomva
+  2023-06-05 22:13:22 INFO  MainForm:195 - Delete Gomb lenyomva
+  2023-06-05 22:13:31 INFO  MainForm:190 - Select Gomb lenyomva
+  2023-06-05 22:15:37 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:15:40 INFO  MainForm:195 - Delete Gomb lenyomva
+  2023-06-05 22:15:43 INFO  MainForm:182 - Add Gomb lenyomva
+  2023-06-05 22:15:50 INFO  MainForm:180 - Cancel gomb megnyomva
+  2023-06-05 22:16:49 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:19:58 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:21:58 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:21:59 INFO  MainForm:182 - Add Gomb lenyomva
+  2023-06-05 22:22:01 INFO  MainForm:180 - Cancel gomb megnyomva
+  2023-06-05 22:22:37 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:23:44 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:23:45 INFO  MainForm:190 - Select Gomb lenyomva
+  2023-06-05 22:24:34 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:24:35 INFO  MainForm:190 - Select Gomb lenyomva
+  2023-06-05 22:25:15 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:25:16 INFO  MainForm:190 - Select Gomb lenyomva
+  2023-06-05 22:25:55 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:25:56 INFO  MainForm:190 - Select Gomb lenyomva
+  2023-06-05 22:26:39 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:26:41 INFO  MainForm:190 - Select Gomb lenyomva
+  2023-06-05 22:27:36 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:27:40 INFO  MainForm:190 - Select Gomb lenyomva
+  2023-06-05 22:28:26 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:28:27 INFO  MainForm:190 - Select Gomb lenyomva
+  2023-06-05 22:30:09 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:30:10 INFO  MainForm:182 - Add Gomb lenyomva
+  2023-06-05 22:30:11 INFO  MainForm:180 - Cancel gomb megnyomva
+  2023-06-05 22:30:12 INFO  MainForm:190 - Select Gomb lenyomva
+  2023-06-05 22:30:18 INFO  MainUI:52 - Sikeres kölcsönzés
+  2023-06-05 22:31:29 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:31:34 INFO  MainForm:190 - Select Gomb lenyomva
+  2023-06-05 22:32:42 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:32:43 INFO  MainForm:171 - Select Gomb lenyomva
+  2023-06-05 22:32:47 INFO  MainForm:180 - Logged out 
+  2023-06-05 22:32:48 INFO  LoginFrame:76 - sikertelen belépés
+  2023-06-05 22:32:52 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:32:53 INFO  MainForm:171 - Select Gomb lenyomva
+  2023-06-05 22:33:12 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:33:37 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:33:49 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:35:05 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:35:06 INFO  MainForm:170 - Select Gomb lenyomva
+  2023-06-05 22:35:10 INFO  MainForm:179 - Logged out 
+  2023-06-05 22:35:12 INFO  LoginFrame:70 - sikeres belépés
+  2023-06-05 22:42:26 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 22:42:28 INFO  MainForm:148 - Select Gomb lenyomva
+  2023-06-05 22:42:35 INFO  MainUI:52 - Sikeres kölcsönzés
+  2023-06-05 22:43:21 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 22:43:23 INFO  MainForm:142 - Add Gomb lenyomva
+  2023-06-05 23:01:26 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:01:31 INFO  MainForm:40 - Sikeres lekérdezés
+  2023-06-05 23:01:32 INFO  MainForm:142 - Add Gomb lenyomva
+  2023-06-05 23:02:31 INFO  LoginFrame:79 - sikertelen belépés
+  2023-06-05 23:02:33 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:02:34 INFO  MainForm:40 - Sikeres lekérdezés
+  2023-06-05 23:02:35 INFO  MainForm:142 - Add Gomb lenyomva
+  2023-06-05 23:03:14 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:03:15 INFO  MainForm:40 - Sikeres lekérdezés
+  2023-06-05 23:03:15 WARN  MainForm:52 - Sikertelen lekérdezés
+  2023-06-05 23:03:16 INFO  MainForm:142 - Add Gomb lenyomva
+  2023-06-05 23:06:46 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:06:46 INFO  MainForm:43 - Sikeres lekérdezés
+  2023-06-05 23:06:47 INFO  MainForm:142 - Add Gomb lenyomva
+  2023-06-05 23:07:13 INFO  MainForm:182 - Adat beszúrva az adatbázisba
+  2023-06-05 23:07:14 INFO  MainForm:190 - Add button megnyomva
+  2023-06-05 23:07:18 INFO  MainForm:182 - Adat beszúrva az adatbázisba
+  2023-06-05 23:07:19 INFO  MainForm:190 - Add button megnyomva
+  2023-06-05 23:08:28 INFO  LoginFrame:79 - sikertelen belépés
+  2023-06-05 23:08:30 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:08:33 INFO  MainForm:43 - Sikeres lekérdezés
+  2023-06-05 23:08:33 INFO  MainForm:142 - Add Gomb lenyomva
+  2023-06-05 23:17:39 INFO  RegisterFrame:80 - Sikeres regisztrálás
+  2023-06-05 23:21:56 INFO  RegisterFrame:79 - Sikeres regisztrálás
+  2023-06-05 23:23:37 INFO  RegisterFrame:80 - Sikeres regisztrálás
+  2023-06-05 23:24:30 INFO  RegisterFrame:80 - Sikeres regisztrálás
+  2023-06-05 23:25:16 INFO  RegisterFrame:80 - Sikeres regisztrálás
+  2023-06-05 23:26:14 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:26:14 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:26:18 INFO  MainForm:157 - Logged out 
+  2023-06-05 23:26:32 INFO  RegisterFrame:80 - Sikeres regisztrálás
+  2023-06-05 23:27:02 INFO  RegisterFrame:80 - Sikeres regisztrálás
+  2023-06-05 23:31:28 WARN  RegisterFrame:74 - Felhasználónév duplikálás hiba
+  2023-06-05 23:31:29 WARN  RegisterFrame:74 - Felhasználónév duplikálás hiba
+  2023-06-05 23:31:29 INFO  RegisterFrame:84 - Sikeres regisztrálás
+  2023-06-05 23:31:55 INFO  RegisterFrame:84 - Sikeres regisztrálás
+  2023-06-05 23:32:23 WARN  RegisterFrame:79 - Üres felhasználó mező
+  2023-06-05 23:32:23 INFO  RegisterFrame:84 - Sikeres regisztrálás
+  2023-06-05 23:33:27 WARN  RegisterFrame:74 - Felhasználónév duplikálás hiba
+  2023-06-05 23:33:28 WARN  RegisterFrame:79 - Üres felhasználó mező
+  2023-06-05 23:33:28 INFO  RegisterFrame:86 - Sikeres regisztrálás
+  2023-06-05 23:33:55 WARN  RegisterFrame:79 - Üres felhasználó mező
+  2023-06-05 23:33:55 INFO  RegisterFrame:86 - Sikeres regisztrálás
+  2023-06-05 23:39:12 WARN  RegisterFrame:74 - Felhasználónév duplikálás hiba
+  2023-06-05 23:39:12 INFO  RegisterFrame:90 - Sikeres regisztrálás
+  2023-06-05 23:40:10 WARN  RegisterFrame:77 - Üres felhasználó mező
+  2023-06-05 23:40:25 WARN  RegisterFrame:74 - Felhasználónév duplikálás hiba
+  2023-06-05 23:41:00 INFO  RegisterFrame:83 - Sikeres regisztrálás
+  2023-06-05 23:41:05 INFO  LoginFrame:79 - sikertelen belépés
+  2023-06-05 23:41:10 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:41:10 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:41:14 INFO  MainForm:157 - Logged out 
+  2023-06-05 23:41:21 INFO  RegisterFrame:83 - Sikeres regisztrálás
+  2023-06-05 23:41:31 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:41:31 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:41:33 INFO  MainForm:43 - Sikeres lekérdezés
+  2023-06-05 23:41:33 INFO  MainForm:147 - Add Gomb lenyomva
+  2023-06-05 23:41:38 INFO  MainForm:182 - Adat beszúrva az adatbázisba
+  2023-06-05 23:41:39 INFO  MainForm:190 - Add button megnyomva
+  2023-06-05 23:42:01 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:42:01 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:42:03 INFO  MainForm:153 - Select Gomb lenyomva
+  2023-06-05 23:42:07 INFO  MainUI:52 - Sikeres kölcsönzés
+  2023-06-05 23:42:55 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:44:10 INFO  LoginFrame:79 - sikertelen belépés
+  2023-06-05 23:44:15 INFO  RegisterFrame:83 - Sikeres regisztrálás
+  2023-06-05 23:44:16 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:44:16 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:44:18 INFO  MainForm:153 - Select Gomb lenyomva
+  2023-06-05 23:44:20 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:44:21 INFO  MainForm:43 - Sikeres lekérdezés
+  2023-06-05 23:44:21 INFO  MainForm:147 - Add Gomb lenyomva
+  2023-06-05 23:44:35 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:44:35 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:44:36 INFO  MainForm:153 - Select Gomb lenyomva
+  2023-06-05 23:44:38 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:44:39 INFO  MainForm:43 - Sikeres lekérdezés
+  2023-06-05 23:44:39 INFO  MainForm:147 - Add Gomb lenyomva
+  2023-06-05 23:44:49 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:44:49 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:44:50 INFO  MainForm:153 - Select Gomb lenyomva
+  2023-06-05 23:44:52 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:44:52 INFO  MainForm:43 - Sikeres lekérdezés
+  2023-06-05 23:44:52 INFO  MainForm:147 - Add Gomb lenyomva
+  2023-06-05 23:46:16 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:46:16 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:46:17 INFO  MainForm:43 - Sikeres lekérdezés
+  2023-06-05 23:46:17 INFO  MainForm:147 - Add Gomb lenyomva
+  2023-06-05 23:47:47 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:47:47 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:47:48 INFO  MainForm:43 - Sikeres lekérdezés
+  2023-06-05 23:50:08 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:50:08 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:50:11 INFO  MainForm:45 - Sikeres lekérdezés
+  2023-06-05 23:50:11 INFO  MainForm:147 - Add Gomb lenyomva
+  2023-06-05 23:50:30 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:50:30 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:50:32 INFO  MainForm:45 - Sikeres lekérdezés
+  2023-06-05 23:50:32 INFO  MainForm:147 - Add Gomb lenyomva
+  2023-06-05 23:50:33 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:50:33 INFO  MainForm:210 - Cancel gomb megnyomva
+  2023-06-05 23:51:19 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:51:19 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:51:20 INFO  MainForm:45 - Sikeres lekérdezés
+  2023-06-05 23:51:20 INFO  MainForm:147 - Add Gomb lenyomva
+  2023-06-05 23:51:43 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:51:43 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:51:44 INFO  MainForm:45 - Sikeres lekérdezés
+  2023-06-05 23:51:44 INFO  MainForm:147 - Add Gomb lenyomva
+  2023-06-05 23:51:58 INFO  LoginFrame:73 - sikeres belépés
+  2023-06-05 23:51:59 INFO  MainForm:131 - Sikeres RS feldolgozás
+  2023-06-05 23:51:59 INFO  MainForm:45 - Sikeres lekérdezés
+  2023-06-05 23:52:00 INFO  MainForm:147 - Add Gomb lenyomva
+  
