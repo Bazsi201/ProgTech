@@ -2,7 +2,7 @@
 
 ## 1. A rendszer célja
 
-Work in progress
+A megrendelő szeretne egy könyv/játék kölcsönzőt üzemeltetni. Ehhez szeretne egy programot, amiben a felhasználók megtekinthetik az aktuális készletet, illetve kikölcsönözhetik a számukra megfelelő termékeket.
 
 ## 2. Projektterv
  **Developer Team**: 
