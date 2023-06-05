@@ -17,7 +17,7 @@ Tesztelés: Mihály Balázs, Kaponya Martin
 
 ## 3. Üzleti feladatok modellje
 
-![Üzleti feladatok modellje](./Pictures/Plan.png)
+![Üzleti feladatok modellje](./Pictures/final.drawio.png)
 
 ## 4. Követelmények
 ### Funkcionális követelmények:
